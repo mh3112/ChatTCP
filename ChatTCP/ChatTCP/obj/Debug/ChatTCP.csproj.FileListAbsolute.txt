@@ -1,0 +1,1 @@
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\bin\Debug\ChatTCP.exe.config

@@ -1,0 +1,9 @@
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\obj\Debug\ChatTCP_Client.csprojResolveAssemblyReference.cache
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\obj\Debug\ChatTCP.Form1.resources
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\obj\Debug\ChatTCP.Properties.Resources.resources
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\obj\Debug\ChatTCP_Client.csproj.GenerateResource.Cache
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\bin\Debug\ChatTCP.exe.config
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\bin\Debug\ChatTCP.exe
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\bin\Debug\ChatTCP.pdb
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\obj\Debug\ChatTCP.exe
+E:\INFORMATION TECHNOLOGY\C#\ChatTCP\ChatTCP\obj\Debug\ChatTCP.pdb
